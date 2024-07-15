@@ -1,11 +1,9 @@
 <template>
-  <Layout />
+  <div>Layout</div>
 </template>
 
 <script setup lang="ts">
-import Layout from './Layout.vue'
 </script>
 
 <style scoped>
-
 </style>
